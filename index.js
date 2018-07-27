@@ -199,11 +199,11 @@ async function handleApiAiAction(sender, action, responseText, contexts, paramet
       sendTextMessage(sender, responseText)
       break;
 
-    case "joke-send":
+    case "send-joke":
       sendJoke(sender)
       break;
 
-    case "joke-send-more":
+    case "send-more-joke":
       sendJoke(sender)
       break;
 
