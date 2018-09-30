@@ -1,9 +1,9 @@
 
 module.exports = {
     FB_PAGE_TOKEN:
-        "EAAYUz7BNjTkBALwqTWUCqNh7q33CZA2pvkkB8Y01lgFYZBZAKPbt4DuzASUHgLrQx06WFBoCXhjVcaCzfCKZBU6qvxmxFcQZBJW1w4i2Cpk1gxG8DDnO1tZAuFB8DFcyGZCgGVeYkM61PNVgM8ZCiQnrVqtt7IjA5suwsaU20K4XeQZDZD",
+        "",
     FB_VERIFY_TOKEN: "hello_bot",
-    API_AI_CLIENT_ACCESS_TOKEN: "90fc0797c1d448968935cd153cffcaf3",
-    FB_APP_SECRET: "f24b23f9496623ae46bdceda9c152d45",
+    API_AI_CLIENT_ACCESS_TOKEN: "",
+    FB_APP_SECRET: "",
     SERVER_URL: " https://9fe2e8bd.ngrok.io"
 };
